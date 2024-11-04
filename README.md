@@ -7,6 +7,6 @@
 
 &emsp; 2. Enhancing Quicksort
 
-&emsp; 3. In progress
+&emsp; 3. Hash Tables
 
 &emsp; 4. In progress
