@@ -9,4 +9,4 @@
 
 &emsp; 3. Hash Tables
 
-&emsp; 4. In progress
+&emsp; 4. Spell Checker
